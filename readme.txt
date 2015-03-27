@@ -1,2 +1,3 @@
-Hello world !
-Hello again.
+# Learning nodeJS
+
+exercices from http://nodeschool.io
